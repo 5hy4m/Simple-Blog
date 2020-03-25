@@ -1,0 +1,18 @@
+.commentbody{
+    border-top:solid grey .5px;
+    margin-top: 1px;
+    padding-top:0;
+    padding-bottom:0
+}
+
+.cmt-username,.cmt-content{
+    margin-bottom:0
+}
+
+.replybutton{
+    margin-top: 0;
+}
+
+.dustbin{
+    float:right;
+}
